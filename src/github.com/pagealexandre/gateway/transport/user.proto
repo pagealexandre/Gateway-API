@@ -1,0 +1,9 @@
+syntax = "proto3";
+package transport;
+
+message User {
+        string uid = 1;
+        string userName = 2;
+        string prettyName = 3;
+        string password = 4;
+}

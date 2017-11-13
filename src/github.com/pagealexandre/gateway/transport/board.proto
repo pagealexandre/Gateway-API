@@ -1,0 +1,7 @@
+syntax = "proto3";
+package transport;
+
+message Board {
+        string uuid = 1;
+        string name = 2;
+}
