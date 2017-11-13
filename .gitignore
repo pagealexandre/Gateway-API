@@ -5,6 +5,7 @@
 *.so
 pkg/
 bin/
+.vs_code/
 
 *.exe
 *.dll
